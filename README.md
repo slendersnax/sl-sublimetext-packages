@@ -8,3 +8,4 @@ this repo doesn't actually contain any code, it's just a centralized hub contain
 
 - [decipher-sublimetext-clips](https://github.com/slendersnax/decipher-sublimetext-clips)
 - [sl-decipher-country-elements](https://github.com/slendersnax/sl-decipher-country-elements)
+- [sl-excel-to-custom-filter](https://github.com/slendersnax/sl-excel-to-custom-filter)
