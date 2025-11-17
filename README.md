@@ -7,8 +7,8 @@ some packages can be found in this repo, the others in their dedicated repo
 ## packages
 
 - internal:
-    - [sl-decipher-country-elements](https://github.com/slendersnax/sl-decipher-country-elements)
-    - [sl-excel-to-custom-filter](https://github.com/slendersnax/sl-excel-to-custom-filter)
+    - [sl-decipher-country-elements](https://github.com/slendersnax/sl-sublimetext-packages/tree/main/sl-decipher-country-elements)
+    - [sl-excel-to-custom-filter](https://github.com/slendersnax/sl-sublimetext-packages/tree/main/sl-excel-to-custom-filter)
 - external:
     - [decipher-sublimetext-clips](https://github.com/slendersnax/decipher-sublimetext-clips)
 
