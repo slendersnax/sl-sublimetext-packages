@@ -7,7 +7,7 @@ class excelToCustomFilterCommand(sublime_plugin.TextCommand):
             sel = self.view.sel()
             sel_text = self.view.substr(sel[0])
 
-            ids = sel_text.split("\n")
+            ids = [id.strip() for id in sel_text.split("\n")]
             id_type = ids[0]
             ids = ids[1:]
 
