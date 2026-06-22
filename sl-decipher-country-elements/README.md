@@ -98,7 +98,7 @@ We need an attribute in each row that:
 notes:
 - you can make multiple selections of rows, in which case each subsequent selection of rows will increase the prefix that you entered initially
     - e.g. if you entered 1 and have four different selections then they will go `r10x..., r20x..., r30x..., r40x...`
-- the `value` attribute **must** be present in order to be transformed
+- this command works with or without the `value` attribute
 
 ## extra - alternate solutions
 
